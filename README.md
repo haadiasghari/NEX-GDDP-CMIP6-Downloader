@@ -27,8 +27,6 @@ The application is intended for researchers and users working in climate science
 
 ## Screenshots
 
-> Screenshots will be added to the repository. Place image files in the `screenshots/` directory and update these paths if their filenames change.
-
 ### Main application
 ![Main application](screenshots/main.png)
 
@@ -329,7 +327,7 @@ Users are responsible for citing the dataset and relevant data documentation in 
 
 If the project helps your research or work, you may support its continued development.
 
-**Reymit (IRR):** [Donation page](https://reymit.ir/)
+**Reymit (IRR):** [Donation page](https://reymit.ir/hadi_asghari)
 
 **Bitcoin:**
 ```text
